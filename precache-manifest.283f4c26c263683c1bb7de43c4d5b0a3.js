@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9fbc28e592641fb54124e4a207967fc4",
+    "revision": "fcdad4731ebce305b8d34510c948de43",
     "url": "/biao-qing-bao/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/biao-qing-bao/static/css/2.56004828.chunk.css"
   },
   {
-    "revision": "fe78a6de4461b33503ae",
+    "revision": "c3d03849a86452022b08",
     "url": "/biao-qing-bao/static/css/main.9759ce58.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/biao-qing-bao/static/js/2.05062e5f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fe78a6de4461b33503ae",
-    "url": "/biao-qing-bao/static/js/main.d6cc1abd.chunk.js"
+    "revision": "c3d03849a86452022b08",
+    "url": "/biao-qing-bao/static/js/main.ab62d3be.chunk.js"
   },
   {
     "revision": "a152471488f1e2db1109",
